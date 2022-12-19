@@ -9,7 +9,10 @@
   "license": "MIT",
   "dependencies": {
     "babel-core": "^6.26.0",
+    "ecpair": "^2.1.0",
     "ethers": "^5.7.1",
+    "send-crypto": "^0.2.38",
+    "tiny-secp256k1": "^2.2.1",
     "tron-create-address": "^0.1.10",
     "tronweb": "^4.3.0"
   },
